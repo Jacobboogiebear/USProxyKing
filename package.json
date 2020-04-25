@@ -1,0 +1,16 @@
+{
+  "name": "usproxyking",
+  "version": "1.0.0",
+  "description": "A tool for getting a random proxy from https://www.us-proxy.org/",
+  "main": "index.js",
+  "scripts": {
+    "test.1": "node test/1.test.js"
+  },
+  "repository": "https://github.com/Jacobboogiebear/USProxyKing.git",
+  "author": "Jacobboogiebear <jacobboogiebear@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.2.2",
+    "request": "^2.88.2"
+  }
+}
