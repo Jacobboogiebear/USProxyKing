@@ -35,5 +35,6 @@ function getProxies() {
 }
 
 module.exports = {
-    getProxies
+    getProxies,
+    WebProxy
 }
